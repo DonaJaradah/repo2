@@ -1,0 +1,29 @@
+This file includes all the command lines used in the terminal
+
+git config username
+git config user email
+cd Documents
+cd 'SE Project'
+git init
+git add *.txt
+git commit -m 'three text filed added'
+git status
+git rm file2.txt
+git commit -m 'file2 deleted'
+git status
+git log
+git revert
+git remote add origin https://github.com/DonaJaradah/repo1.git
+git push -u origin master
+touch README.md
+vim README.md
+git branch ReadMe
+git checkout ReadMe
+git add README.md
+git checkout Master
+git merge ReadMe
+git add AllMyCommands.txt
+git commit -m 'AllMyCommands file added'
+
+
+
