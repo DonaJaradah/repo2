@@ -24,6 +24,6 @@ git checkout Master
 git merge ReadMe
 git add AllMyCommands.txt
 git commit -m 'AllMyCommands file added'
-
+git status
 
 
